@@ -1,0 +1,275 @@
+aid: hexcel
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/hexcel/refs/heads/main/apis.yml
+name: Hexcel
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Advanced Composites
+  - Carbon Fiber
+  - Honeycomb
+  - Prepregs
+  - Aerospace
+  - Defense
+  - Industrial
+  - Manufacturing
+  - Materials Science
+description: >-
+  Hexcel Corporation (NYSE: HXL) is a global leader in advanced composite materials
+  for the aerospace, defense and space, and industrial markets. Headquartered in
+  Stamford, Connecticut and operating roughly 18 manufacturing facilities worldwide
+  with about 5,800 employees, Hexcel produces HexTow carbon fiber, HexPly prepregs,
+  HexWeb honeycomb, HexForce reinforcements, HexBond adhesives, HexFlow infusion
+  resins, and HexTool tooling materials supplied into commercial aircraft, military
+  platforms, space launch vehicles, wind energy blades, and industrial structures.
+  Hexcel is a critical materials supplier to Boeing and Airbus and supports more than
+  100 defense programs; it has no public developer portal, REST APIs, SDKs, or
+  machine-readable product catalog. Customer interaction with technical resources is
+  PDF-based (datasheets, technology manuals, brochures), and the company's GitHub
+  organization (github.com/Hexcel) is registered but empty.
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis:
+  - aid: hexcel:hextow-carbon-fiber
+    name: Hexcel HexTow Carbon Fiber
+    tags:
+      - Carbon Fiber
+      - Aerospace
+      - Composites
+      - Materials
+    humanURL: https://www.hexcel.com/Products/Carbon-Fiber
+    properties:
+      - url: https://www.hexcel.com/Products/Carbon-Fiber
+        type: Documentation
+      - url: https://www.hexcel.com/Resources/DataSheets/Carbon-Fiber
+        type: ProductSheets
+    description: >-
+      HexTow continuous carbon fiber product family — Hexcel is the world's largest
+      producer of aerospace-grade carbon fiber. Fibers are qualified on most major
+      commercial aircraft programs and used in primary and secondary aerostructures,
+      engine components, and space launch vehicles. No machine-readable catalog;
+      product data is published as PDF datasheets per fiber grade.
+
+  - aid: hexcel:hexply-prepregs
+    name: Hexcel HexPly Prepregs
+    tags:
+      - Prepreg
+      - Resin
+      - Aerospace
+      - Composites
+    humanURL: https://www.hexcel.com/Products/Aerospace/AProducts/Prepregs
+    properties:
+      - url: https://www.hexcel.com/Products/Aerospace/AProducts/Prepregs
+        type: Documentation
+      - url: https://www.hexcel.com/Resources/DataSheets/Prepreg
+        type: ProductSheets
+    description: >-
+      HexPly prepreg product family — pre-impregnated fiber reinforcements with epoxy,
+      bismaleimide, cyanate ester, and phenolic resin systems used in primary aircraft
+      structures, satellites, wind blades, automotive, and industrial applications.
+      Includes the HexFlow infusion resin line for liquid resin infusion processes.
+
+  - aid: hexcel:hexweb-honeycomb
+    name: Hexcel HexWeb Honeycomb
+    tags:
+      - Honeycomb
+      - Core Materials
+      - Aerospace
+      - Composites
+    humanURL: https://www.hexcel.com/Products/Aerospace/AProducts/Honeycomb
+    properties:
+      - url: https://www.hexcel.com/Products/Aerospace/AProducts/Honeycomb
+        type: Documentation
+      - url: https://www.hexcel.com/Resources/DataSheets/Honeycomb
+        type: ProductSheets
+    description: >-
+      HexWeb honeycomb core and engineered core product family — Hexcel is the global
+      leader in aerospace honeycomb manufacturing. Aluminum, aramid (Nomex), thermoplastic,
+      and fiberglass honeycomb cores used in aircraft flooring, control surfaces,
+      engine nacelles, satellite panels, and high-performance industrial sandwich
+      structures.
+
+  - aid: hexcel:hexforce-reinforcements
+    name: Hexcel HexForce Reinforcements
+    tags:
+      - Fabrics
+      - Reinforcements
+      - Composites
+      - Materials
+    humanURL: https://www.hexcel.com/Products/Industrial/IProducts/Reinforcements
+    properties:
+      - url: https://www.hexcel.com/Products/Industrial/IProducts/Reinforcements
+        type: Documentation
+      - url: https://www.hexcel.com/Resources/DataSheets/Reinforcements
+        type: ProductSheets
+    description: >-
+      HexForce woven and multiaxial reinforcement product family — including HiTape,
+      PrimeTex, and HiMax fabrics in carbon, glass, and aramid fibers. Used in dry
+      preforms for resin infusion, automated fiber placement, and hand layup in
+      aerospace, wind energy, marine, and industrial composite parts.
+
+  - aid: hexcel:hexbond-adhesives
+    name: Hexcel HexBond Adhesives
+    tags:
+      - Adhesives
+      - Bonding
+      - Aerospace
+      - Composites
+    humanURL: https://www.hexcel.com/Products/Aerospace/AProducts/Adhesives
+    properties:
+      - url: https://www.hexcel.com/Products/Aerospace/AProducts/Adhesives
+        type: Documentation
+      - url: https://www.hexcel.com/Resources/DataSheets/Adhesives
+        type: ProductSheets
+    description: >-
+      HexBond structural adhesives product family — film adhesives, foaming films,
+      primers, and paste adhesives for bonding metallic and composite assemblies in
+      commercial aircraft, military aircraft, and industrial structures. Supplied
+      alongside prepreg and honeycomb to enable complete bonded sandwich constructions.
+
+  - aid: hexcel:hextool-tooling
+    name: Hexcel HexTool Tooling Materials
+    tags:
+      - Tooling
+      - Composites
+      - Manufacturing
+      - Materials
+    humanURL: https://www.hexcel.com/Products/Industrial/IProducts/HexTool
+    properties:
+      - url: https://www.hexcel.com/Products/Industrial/IProducts/HexTool
+        type: Documentation
+      - url: https://www.hexcel.com/Resources/DataSheets/Tooling
+        type: ProductSheets
+    description: >-
+      HexTool machinable composite tooling product family — bismaleimide and epoxy
+      tooling prepreg systems used to fabricate dimensionally stable, autoclave-rated
+      composite tools and molds for aerospace part production.
+
+common:
+  - type: Website
+    url: https://www.hexcel.com
+  - type: InvestorRelations
+    url: https://investors.hexcel.com
+  - type: Resources
+    url: https://www.hexcel.com/Resources
+  - type: News
+    url: https://www.hexcel.com/News
+  - type: Careers
+    url: https://www.hexcel.com/Contact/Careers
+  - type: GitHubOrganization
+    url: https://github.com/Hexcel
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hexcel-corporation
+  - type: Features
+    data:
+      - name: Aerospace-Grade Carbon Fiber
+        description: >-
+          HexTow continuous carbon fiber qualified on most major commercial aircraft
+          and defense programs; Hexcel is the world's largest producer of aerospace
+          carbon fiber.
+      - name: Prepreg and Resin Systems
+        description: >-
+          HexPly prepregs and HexFlow infusion resins covering epoxy, BMI, cyanate
+          ester, and phenolic chemistries for primary aircraft, satellite, wind, and
+          industrial structures.
+      - name: Honeycomb Core
+        description: >-
+          HexWeb aluminum, Nomex, thermoplastic, and fiberglass honeycomb cores —
+          the company is the global leader in aerospace honeycomb manufacturing.
+      - name: Woven and Multiaxial Reinforcements
+        description: >-
+          HexForce, HiTape, PrimeTex, and HiMax fabric reinforcements in carbon,
+          glass, and aramid for dry preforms and infusion processes.
+      - name: Structural Adhesives
+        description: >-
+          HexBond film adhesives, foaming films, primers, and paste adhesives engineered
+          for bonded metal-to-composite and composite-to-composite assemblies.
+      - name: Composite Tooling Materials
+        description: >-
+          HexTool machinable BMI and epoxy tooling prepregs for autoclave-rated
+          composite molds and production tools.
+  - type: UseCases
+    data:
+      - name: Commercial Aircraft Primary Structure
+        description: >-
+          Carbon fiber, prepreg, and honeycomb materials supplied into Boeing 787,
+          777X, Airbus A350, A320neo, and other commercial aircraft for wings,
+          fuselage sections, empennage, and engine nacelles.
+      - name: Defense and Military Aircraft
+        description: >-
+          Composites supplied into more than 100 military aircraft, helicopter,
+          and missile programs for airframes, rotor blades, and structural assemblies.
+      - name: Space and Launch Vehicles
+        description: >-
+          Carbon fiber and prepregs used in satellite buses, payload fairings,
+          launch vehicle interstages, and space structures.
+      - name: Wind Energy Blades
+        description: >-
+          Carbon fiber spar caps and glass fiber reinforcements for utility-scale
+          wind turbine blades.
+      - name: Industrial and Performance Applications
+        description: >-
+          Composite materials for automotive, marine, recreation, and performance
+          industrial applications requiring high strength-to-weight ratios.
+  - type: Integrations
+    data:
+      - name: Boeing
+        description: >-
+          Long-running primary materials supplier into Boeing commercial aircraft
+          programs including 787, 777X, and 737 platforms.
+      - name: Airbus
+        description: >-
+          Primary composites supplier into Airbus commercial aircraft programs
+          including A350, A320neo, and A220.
+      - name: Embraer
+        description: >-
+          Materials supplier to Embraer; named Embraer Best Supplier of the Year
+          for two consecutive years through 2026.
+      - name: Defense Primes
+        description: >-
+          Materials and prepreg supplier to defense primes across more than 100
+          military programs spanning fixed-wing, rotary-wing, and missile platforms.
+      - name: Wind Turbine OEMs
+        description: >-
+          Carbon fiber and reinforcement supplier to global wind turbine blade
+          manufacturers.
+  - type: Solutions
+    data:
+      - name: Commercial Aerospace
+        description: >-
+          Composite materials portfolio for commercial aircraft primary and
+          secondary structure, engine nacelles, and interiors.
+      - name: Defense and Space
+        description: >-
+          Materials qualified for military fixed-wing, rotary-wing, missile,
+          satellite, and space launch applications.
+      - name: Industrial
+        description: >-
+          Composite solutions for wind energy, automotive, marine, recreation,
+          and high-performance industrial structures.
+  - type: NotableAbsences
+    data:
+      - name: No Developer Portal
+        description: >-
+          Hexcel publishes no developer portal, REST API, GraphQL endpoint, or
+          machine-readable product catalog. All product information is distributed
+          as PDF datasheets and brochures.
+      - name: No OpenAPI Or SDKs
+        description: >-
+          No OpenAPI, AsyncAPI, JSON Schema, or language SDKs are published.
+      - name: Empty GitHub Organization
+        description: >-
+          The github.com/Hexcel organization exists (created 2018-03-01) but contains
+          zero public repositories.
+      - name: No Public Pricing Or Status Page
+        description: >-
+          Pricing is quote-based via direct sales / regional terms-of-sale PDFs;
+          no public status page is published.
+      - name: No RSS Or Webhooks
+        description: >-
+          No RSS feed, webhook surface, or programmatic news/changelog distribution
+          is offered.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
