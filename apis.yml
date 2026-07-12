@@ -149,6 +149,8 @@ apis:
     composite tools and molds for aerospace part production.
 
 common:
+- type: DomainSecurity
+  url: security/hexcel-domain-security.yml
 - type: Website
   url: https://www.hexcel.com
 - type: InvestorRelations
