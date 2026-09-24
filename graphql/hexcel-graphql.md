@@ -1,1 +1,0 @@
-# Hexcel GraphQL API

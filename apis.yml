@@ -66,8 +66,6 @@ apis:
     type: Documentation
   - url: https://www.hexcel.com/Resources/DataSheets/Carbon-Fiber
     type: ProductSheets
-  - url: graphql/hexcel-graphql.md
-    type: GraphQL
   description: >-
     HexTow continuous carbon fiber product family — Hexcel is the world's largest
     producer of aerospace-grade carbon fiber. Fibers are qualified on most major
