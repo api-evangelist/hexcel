@@ -50,7 +50,7 @@ description: >-
   PDF-based (datasheets, technology manuals, brochures), and the company's GitHub
   organization (github.com/Hexcel) is registered but empty.
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
 - aid: hexcel:hextow-carbon-fiber
@@ -169,6 +169,8 @@ apis:
     composite tools and molds for aerospace part production.
 
 common:
+- url: https://www.hexcel.com/news/
+  type: Blog
 - type: DomainSecurity
   url: security/hexcel-domain-security.yml
 - type: Website
