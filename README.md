@@ -1,4 +1,4 @@
-# hexcel
+# Hexcel
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,60 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Profile for Hexcel Corporation in the API Evangelist network.
+Hexcel Corporation (NYSE: HXL) is a global leader in advanced composite materials for the aerospace, defense and space, and industrial markets. Headquartered in Stamford, Connecticut and operating roughly 18 manufacturing facilities worldwide with about 5,800 employees, Hexcel produces HexTow carbon fiber, HexPly prepregs, HexWeb honeycomb, HexForce reinforcements, HexBond adhesives, HexFlow infusion resins, and HexTool tooling materials supplied into commercial aircraft, military platforms, space launch vehicles, wind energy blades, and industrial structures. Hexcel is a critical materials supplier to Boeing and Airbus and supports more than 100 defense programs; it has no public developer portal, REST APIs, SDKs, or machine-readable product catalog. Customer interaction with technical resources is PDF-based (datasheets, technology manuals, brochures), and the company's GitHub organization (github.com/Hexcel) is registered but empty.
 
-Hexcel Corporation (NYSE: HXL) is a global leader in advanced composite materials
-for the aerospace, defense and space, and industrial markets. Headquartered in
-Stamford, Connecticut, Hexcel operates roughly 18 manufacturing facilities worldwide
-with about 5,800 employees, and supplies HexTow carbon fiber, HexPly prepregs,
-HexWeb honeycomb, HexForce reinforcements, HexBond adhesives, HexFlow infusion
-resins, and HexTool tooling materials into Boeing, Airbus, Embraer, defense primes,
-space launch programs, and wind energy OEMs.
+**Areas:** Advanced Composites · Carbon Fiber · Honeycomb · Prepregs · Aerospace · Defense · Industrial · Manufacturing · Materials Science
 
-## Product Lines Documented
+## Hexcel on APIs.io
 
-Hexcel has no public developer APIs. This profile catalogs the company's
-material product families as capability surfaces for indexing purposes only:
+Everything profiled for Hexcel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hexcel/](https://apis.io/providers/hexcel/)** — or go straight to one of the APIs or properties below.
 
-| Product Family | Description |
+### APIs (6)
+
+- [Hexcel HexTow Carbon Fiber](https://apis.io/apis/hexcel/hextow-carbon-fiber/) — HexTow continuous carbon fiber product family — Hexcel is the world's largest producer of aerospace-grade carbon fiber. Fibers are qualified on most major…
+- [Hexcel HexPly Prepregs](https://apis.io/apis/hexcel/hexply-prepregs/) — HexPly prepreg product family — pre-impregnated fiber reinforcements with epoxy, bismaleimide, cyanate ester, and phenolic resin systems used in primary…
+- [Hexcel HexWeb Honeycomb](https://apis.io/apis/hexcel/hexweb-honeycomb/) — HexWeb honeycomb core and engineered core product family — Hexcel is the global leader in aerospace honeycomb manufacturing. Aluminum, aramid (Nomex),…
+- [Hexcel HexForce Reinforcements](https://apis.io/apis/hexcel/hexforce-reinforcements/) — HexForce woven and multiaxial reinforcement product family — including HiTape, PrimeTex, and HiMax fabrics in carbon, glass, and aramid fibers. Used in dry…
+- [Hexcel HexBond Adhesives](https://apis.io/apis/hexcel/hexbond-adhesives/) — HexBond structural adhesives product family — film adhesives, foaming films, primers, and paste adhesives for bonding metallic and composite assemblies in…
+- [Hexcel HexTool Tooling Materials](https://apis.io/apis/hexcel/hextool-tooling/) — HexTool machinable composite tooling product family — bismaleimide and epoxy tooling prepreg systems used to fabricate dimensionally stable, autoclave-rated…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### GraphQL (1)
+
+GraphQL schemas.
+
+- [Moved to /providers/hexcel/](https://apis.io/graphqls/hexcel/hexcel-graphql/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hexcel Domain Security](https://apis.io/security/hexcel/hexcel-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hexcel.com)
+- [Blog](https://www.hexcel.com/news/)
+- [GitHub](https://github.com/Hexcel)
+
+## API Evangelist rating
+
+**Kin Score 7.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
 |---|---|
-| HexTow Carbon Fiber | Aerospace-grade continuous carbon fiber (world's largest producer) |
-| HexPly Prepregs | Pre-impregnated fiber reinforcements with epoxy/BMI/cyanate ester/phenolic resins |
-| HexWeb Honeycomb | Aluminum, Nomex, thermoplastic, fiberglass honeycomb core (global leader) |
-| HexForce Reinforcements | Woven and multiaxial carbon/glass/aramid fabrics (HiTape, PrimeTex, HiMax) |
-| HexBond Adhesives | Film adhesives, foaming films, primers, paste adhesives |
-| HexTool Tooling | Machinable BMI/epoxy tooling prepregs for composite molds |
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 0.0 |
 
-## Surfaces
+**Agent readiness 0.0** — human-only
 
-- Website: https://www.hexcel.com
-- Investor Relations: https://investors.hexcel.com
-- Technical Resources (PDF datasheets, manuals, brochures): https://www.hexcel.com/Resources
-- News: https://www.hexcel.com/News
-- Careers: https://www.hexcel.com/Contact/Careers
-- GitHub Organization (empty, created 2018-03-01): https://github.com/Hexcel
-- LinkedIn: https://www.linkedin.com/company/hexcel-corporation
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Notable Absences
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-- No developer portal, REST API, GraphQL, or machine-readable product catalog
-- No OpenAPI, AsyncAPI, JSON Schema, or language SDKs
-- The GitHub organization `github.com/Hexcel` exists but contains zero public repositories
-- No public pricing (quote-based sales); no status page
-- No RSS feed, webhook surface, or programmatic news/changelog distribution
-- Technical product data is distributed as PDF datasheets only
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hexcel/](https://apis.io/providers/hexcel/).
 
-## Artifacts
+## How this profile is made
 
-This profile contains no OpenAPI specs, JSON Schemas, capabilities, vocabulary,
-or other generated artifacts because Hexcel exposes no programmatic surface that
-would back them. The profile is documentation-only.
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Provenance
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hexcel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- Profile type: company
-- Pipeline run: 2026-05-23 (documentation-only — no APIs)
-- Sources: hexcel.com homepage, investors.hexcel.com, hexcel.com/Resources,
-  hexcel.com/Contact/Careers, GitHub org metadata for github.com/Hexcel.
+## Open an issue
 
-Fortune F1000 (rank 905).
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hexcel/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
